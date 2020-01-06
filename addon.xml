@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.currentaffairspatreon" name="Current Affairs" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.currentaffairs" name="Current Affairs" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -14,7 +14,7 @@
     <platform>all</platform>
     <language>en_us</language>
     <summary lang="en">Current Affairs</summary>
-    <description lang="en">Current Affairs: The Podcast. Every other week our editorial team brings you a mixture of discussion, analysis, and whimsy. From the Current Affairs World Headquarters to your ear, our podcast is a refreshing alternative to the stale and tedious audio products to which you have grudgingly become accustomed. We’re cutting through the nonsense, bursting open ideological piñatas, and presenting a friendly, relaxed, and upbeat guide to the world of politics.<br></description>
+    <description lang="en">Current Affairs: The Podcast. Every other week our editorial team brings you a mixture of discussion, analysis, and whimsy. From the Current Affairs World Headquarters to your ear, our podcast is a refreshing alternative to the stale and tedious audio products to which you have grudgingly become accustomed</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
